@@ -1,0 +1,18 @@
+{
+  "id": "nyria.lilypichu",
+  "name": "LilyPichu",
+  "description": "A theme based on @Melonturtle_ stream design",
+  "author": {
+    "name": "Nyria",
+    "discordID": "265924886461939712",
+    "github": "NYRI4"
+  },
+  "version": "1.4.1",
+  "updater": {
+    "type": "store",
+    "id": "nyria.lilypichu"
+  },
+  "license": "WTFPL",
+  "type": "replugged-theme",
+  "main": "lilypichu.theme.css"
+}
