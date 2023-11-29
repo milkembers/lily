@@ -1,6 +1,6 @@
 # 🌼 lily
 
-![preview](https://milkembers.github.io/lily/main/assets/preview.png)
+![preview](https://milkembers.github.io/lily/assets/preview.png)
 
 ## install
 
