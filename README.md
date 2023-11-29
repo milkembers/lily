@@ -1,8 +1,8 @@
-# lily
+# 🌼 lily
 
-![main](https://raw.githubusercontent.com/milkembers/lily/main/assets/preview.png)
+![preview](https://milkembers.github.io/lily/main/assets/preview.png)
 
-### use
+## install
 
 @import:
 
